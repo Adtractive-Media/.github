@@ -17,16 +17,6 @@ Adtractive Group aide les marques à gagner en visibilité. Nous planifions, com
 
 Cette organisation GitHub regroupe les outils, sites web et intégrations qui soutiennent notre activité.
 
-### 🛠️ Ce que vous trouverez ici
-
-- Les sites web et landing pages d'Adtractive Group et de nos clients
-- Nos outils internes de gestion et de reporting de campagnes
-- Des utilitaires open source développés au fil de nos projets
-
-### 🤝 Contribuer
-
-Un bug ou une idée ? Ouvrez une issue ou une pull request sur le dépôt concerné. Merci de garder les PR ciblées et de décrire clairement les changements.
-
 ### 📬 Contact
 
 - 🌐 [adtractive-group.fr](https://adtractive-group.fr)
